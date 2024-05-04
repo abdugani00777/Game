@@ -1,0 +1,42 @@
+body {
+  background-color: rgb(5, 5, 33);
+}
+h1 {
+  color: yellow;
+  text-align: center;
+}
+h2 {
+  color: aliceblue;
+}
+span {
+  color: green;
+}
+th {
+  width: 900px;
+  border: solid 1px;
+  color: aliceblue;
+}
+td {
+  border: solid 1px;
+  width: 900px;
+  color: aliceblue;
+}
+form {
+  width: 100%;
+  text-align: center;
+}
+
+input {
+  width: 100%;
+}
+button {
+  width: 400px;
+  background-color: green;
+  border-radius: 25px;
+}
+p {
+  color: yellow;
+}
+center {
+  color: white;
+}
